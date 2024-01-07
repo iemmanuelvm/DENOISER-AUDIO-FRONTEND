@@ -1,0 +1,10 @@
+export { AirplainSvg } from './AirplainSvg';
+export { BabySvg } from './BabySvg';
+export { DogSvg } from './DogSvg';
+export { EngineSvg } from './EngineSvg';
+export { HelicopterSvg } from './HelicopterSvg';
+export { PauseSvg } from './PauseSvg';
+export { PeopleSvg } from './PeopleSvg';
+export { PlaySvg } from './PlaySvg';
+export { SirenSvg } from './SirenSvg';
+export { TrainSvg } from './TrainSvg';
